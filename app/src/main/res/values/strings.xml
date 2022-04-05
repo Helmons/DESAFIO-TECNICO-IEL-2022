@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FordMapbox</string>
+    <string name="mapbox_access_token">sk.eyJ1Ijoiam9hb3ZpdG9yaGUiLCJhIjoiY2wxbDEzNHNtMDY3ejNwb2Y5aXZ4emd4cyJ9.njhSMHW1mDHGbClG8uOvUg</string>
 </resources>
